@@ -1,0 +1,1025 @@
+﻿Age,Sex,Income,Residence,Subscribes
+senior,M,low,country,1
+young adult,M,low,suburb,0
+gen. X,F,low,suburb,0
+young adult,F,low,suburb,0
+gen. X,M,high,city,1
+gen. X,M,low,city,1
+young adult,F,low,country,0
+young adult,F,low,city,1
+gen. X,F,low,city,0
+young adult,F,average,city,1
+young adult,F,low,suburb,0
+gen. X,F,average,city,0
+young adult,F,low,country,0
+young adult,M,average,suburb,1
+young adult,F,average,country,0
+adult,F,low,suburb,0
+young adult,F,low,city,0
+young adult,M,low,city,0
+senior,M,average,city,1
+young adult,F,average,suburb,0
+young adult,F,low,country,0
+adult,F,average,city,0
+young adult,M,low,city,1
+senior,M,average,city,0
+gen. X,F,average,country,1
+young adult,M,average,suburb,0
+young adult,F,average,city,1
+young adult,M,low,suburb,1
+gen. X,M,average,suburb,0
+young adult,F,average,city,0
+gen. X,F,average,country,0
+young adult,M,low,suburb,0
+gen. X,F,low,city,0
+gen. X,F,average,country,1
+young adult,M,average,city,0
+young adult,F,average,city,0
+senior,M,average,city,1
+adult,F,low,suburb,0
+young adult,M,average,suburb,1
+gen. X,M,average,suburb,1
+senior,F,low,suburb,1
+young adult,M,low,city,0
+gen. X,M,high,city,0
+gen. X,M,average,country,1
+young adult,M,low,country,1
+gen. X,F,low,suburb,0
+gen. X,F,low,city,0
+young adult,F,average,city,0
+gen. X,M,average,suburb,0
+young adult,M,low,city,1
+young adult,M,average,city,0
+gen. X,F,low,suburb,1
+young adult,F,average,city,1
+gen. X,M,low,city,1
+gen. X,F,average,city,0
+young adult,F,low,suburb,0
+young adult,F,average,suburb,0
+young adult,F,average,city,0
+young adult,F,average,city,1
+gen. X,M,low,city,0
+gen. X,M,average,city,1
+gen. X,F,average,city,0
+young adult,F,average,country,0
+gen. X,F,low,suburb,0
+young adult,F,average,country,0
+young adult,F,average,country,0
+gen. X,F,low,suburb,0
+young adult,M,low,city,0
+young adult,M,low,country,1
+young adult,M,average,suburb,0
+senior,M,low,country,0
+adult,M,average,suburb,0
+young adult,F,low,city,0
+young adult,F,average,city,0
+young adult,F,low,city,0
+young adult,F,high,suburb,1
+young adult,F,low,suburb,0
+young adult,M,average,city,0
+gen. X,F,average,suburb,1
+young adult,M,low,suburb,1
+gen. X,M,low,suburb,0
+senior,F,low,suburb,0
+young adult,M,low,city,1
+gen. X,F,average,city,0
+gen. X,M,average,suburb,0
+gen. X,M,low,suburb,0
+adult,F,low,country,0
+gen. X,F,average,suburb,1
+young adult,M,average,suburb,1
+young adult,M,low,city,0
+young adult,M,average,suburb,1
+gen. X,M,average,suburb,1
+adult,F,average,suburb,1
+young adult,M,low,city,1
+gen. X,M,average,suburb,0
+senior,F,low,city,0
+gen. X,M,average,city,1
+young adult,F,average,country,0
+gen. X,F,low,suburb,0
+gen. X,M,average,city,0
+gen. X,F,low,suburb,0
+young adult,M,average,suburb,0
+adult,M,average,suburb,0
+young adult,M,average,country,1
+gen. X,F,average,city,0
+gen. X,M,low,city,0
+young adult,F,average,city,0
+gen. X,M,average,suburb,1
+young adult,M,average,suburb,1
+gen. X,F,low,country,0
+gen. X,F,average,suburb,1
+young adult,M,low,country,0
+young adult,M,average,city,0
+adult,F,low,suburb,0
+gen. X,M,average,city,1
+gen. X,F,low,suburb,1
+young adult,M,low,city,0
+gen. X,F,average,city,0
+gen. X,M,low,country,0
+gen. X,M,low,country,0
+gen. X,M,average,country,0
+young adult,M,low,suburb,0
+gen. X,M,average,suburb,0
+gen. X,F,average,suburb,1
+gen. X,M,average,city,0
+gen. X,F,average,suburb,0
+adult,F,average,suburb,0
+young adult,F,low,city,0
+adult,M,low,suburb,1
+gen. X,M,average,suburb,0
+gen. X,M,average,suburb,0
+gen. X,M,low,city,0
+young adult,M,average,suburb,1
+young adult,M,average,country,0
+young adult,M,average,country,1
+young adult,F,low,city,0
+senior,M,low,suburb,0
+adult,F,average,suburb,0
+young adult,M,average,country,0
+gen. X,F,low,suburb,0
+gen. X,M,average,city,0
+young adult,M,low,city,1
+adult,M,low,suburb,0
+adult,M,average,suburb,0
+young adult,M,average,city,1
+young adult,M,average,suburb,1
+adult,F,average,suburb,0
+young adult,F,average,city,0
+gen. X,F,low,city,0
+gen. X,F,average,city,0
+gen. X,M,average,country,0
+young adult,M,low,country,1
+adult,F,low,suburb,0
+gen. X,F,average,suburb,1
+gen. X,F,average,city,0
+young adult,M,average,country,0
+senior,F,average,country,0
+young adult,M,average,suburb,1
+young adult,F,average,suburb,0
+young adult,M,average,suburb,1
+young adult,F,low,suburb,0
+young adult,M,average,city,0
+gen. X,M,average,city,1
+gen. X,M,average,city,1
+young adult,F,low,suburb,0
+gen. X,M,average,suburb,0
+gen. X,M,average,city,1
+gen. X,M,average,country,1
+young adult,F,low,country,0
+gen. X,F,average,city,0
+young adult,M,high,country,1
+gen. X,M,average,suburb,1
+young adult,F,low,suburb,0
+young adult,M,low,country,0
+young adult,F,average,city,1
+gen. X,F,low,city,0
+young adult,M,average,suburb,1
+young adult,M,low,suburb,0
+senior,M,high,suburb,0
+young adult,M,average,city,0
+gen. X,M,low,city,1
+gen. X,M,average,country,0
+adult,M,low,suburb,0
+young adult,M,average,city,0
+gen. X,M,low,city,1
+gen. X,M,average,suburb,1
+young adult,F,low,city,0
+young adult,M,low,city,0
+young adult,F,average,country,1
+young adult,F,average,suburb,0
+young adult,M,low,suburb,1
+young adult,M,average,suburb,0
+adult,M,low,suburb,0
+gen. X,M,average,suburb,0
+young adult,M,average,country,0
+gen. X,M,low,suburb,0
+gen. X,F,low,country,0
+gen. X,M,average,suburb,0
+young adult,M,low,country,0
+young adult,M,average,suburb,0
+gen. X,M,average,country,1
+young adult,M,average,city,1
+gen. X,F,average,suburb,1
+young adult,F,low,suburb,0
+young adult,M,low,city,1
+senior,F,average,suburb,0
+gen. X,F,average,city,0
+gen. X,M,average,city,1
+gen. X,M,low,suburb,0
+adult,F,average,suburb,1
+young adult,F,average,suburb,0
+young adult,F,average,city,0
+adult,F,average,suburb,1
+gen. X,M,low,city,0
+young adult,F,average,city,0
+young adult,F,average,country,0
+gen. X,M,low,city,0
+young adult,F,average,suburb,0
+young adult,M,low,city,1
+young adult,F,low,city,0
+young adult,M,low,city,1
+young adult,M,average,city,1
+adult,M,average,city,0
+senior,F,low,city,0
+gen. X,F,average,suburb,0
+gen. X,F,average,suburb,0
+gen. X,M,average,country,0
+young adult,M,low,suburb,1
+young adult,M,low,city,0
+gen. X,M,average,suburb,0
+young adult,M,low,city,1
+gen. X,M,average,city,1
+senior,M,average,city,1
+adult,M,low,suburb,1
+young adult,M,low,city,0
+gen. X,F,average,suburb,0
+adult,F,low,city,0
+gen. X,F,average,suburb,1
+gen. X,M,average,suburb,1
+young adult,F,average,suburb,0
+gen. X,F,low,city,0
+gen. X,M,low,suburb,1
+gen. X,M,average,city,0
+gen. X,F,low,suburb,0
+gen. X,F,average,city,0
+young adult,F,low,country,0
+young adult,M,average,city,1
+gen. X,F,average,suburb,1
+senior,F,low,suburb,0
+young adult,F,low,city,1
+young adult,M,low,city,1
+young adult,F,average,country,0
+gen. X,F,low,suburb,0
+young adult,M,high,suburb,0
+gen. X,F,low,city,0
+young adult,F,average,city,0
+adult,M,average,city,1
+young adult,F,average,suburb,1
+young adult,M,average,suburb,1
+adult,F,average,city,0
+young adult,M,average,city,1
+gen. X,F,average,suburb,0
+gen. X,M,low,country,0
+young adult,F,low,suburb,0
+young adult,F,low,suburb,1
+gen. X,M,average,suburb,1
+young adult,M,average,city,0
+young adult,F,average,country,1
+gen. X,F,low,suburb,0
+young adult,M,average,suburb,1
+gen. X,M,average,city,1
+gen. X,F,low,suburb,0
+young adult,M,average,suburb,0
+gen. X,M,low,city,1
+young adult,M,average,city,0
+young adult,F,high,suburb,1
+gen. X,F,low,suburb,0
+gen. X,M,average,city,1
+young adult,M,low,city,1
+young adult,M,low,suburb,0
+adult,F,average,city,1
+gen. X,F,low,city,0
+gen. X,M,low,country,0
+gen. X,F,average,suburb,0
+young adult,F,low,suburb,0
+adult,F,average,city,1
+gen. X,F,average,suburb,1
+gen. X,M,average,country,1
+young adult,F,average,suburb,0
+young adult,M,average,suburb,0
+gen. X,F,low,country,1
+adult,F,low,suburb,0
+senior,F,low,suburb,0
+senior,F,low,suburb,0
+gen. X,M,low,suburb,0
+senior,M,average,suburb,0
+gen. X,M,low,suburb,1
+young adult,F,average,country,0
+gen. X,M,low,suburb,0
+gen. X,F,average,suburb,0
+young adult,M,average,suburb,0
+young adult,M,average,suburb,1
+gen. X,F,high,suburb,0
+gen. X,M,average,city,0
+young adult,M,average,country,0
+gen. X,F,low,suburb,0
+gen. X,M,average,city,1
+gen. X,M,average,city,1
+adult,F,low,country,0
+senior,M,low,suburb,0
+senior,M,low,city,0
+young adult,M,average,suburb,0
+gen. X,M,low,city,0
+young adult,M,low,city,0
+young adult,M,low,suburb,0
+gen. X,M,low,suburb,1
+senior,M,low,suburb,0
+gen. X,M,low,suburb,1
+young adult,M,low,city,1
+adult,M,average,country,1
+young adult,F,low,city,0
+young adult,F,average,city,0
+senior,M,low,suburb,0
+gen. X,M,average,country,0
+gen. X,M,average,suburb,0
+gen. X,M,low,suburb,1
+senior,F,average,city,0
+gen. X,M,low,suburb,0
+gen. X,M,average,suburb,0
+young adult,M,average,city,0
+young adult,M,low,country,0
+gen. X,F,low,city,0
+young adult,M,average,city,0
+gen. X,F,low,city,1
+gen. X,M,average,city,0
+gen. X,F,average,suburb,0
+young adult,M,average,city,0
+young adult,M,low,suburb,1
+young adult,F,average,city,1
+young adult,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,M,low,city,0
+young adult,F,low,suburb,0
+gen. X,F,low,city,1
+gen. X,F,average,city,1
+gen. X,M,low,suburb,1
+young adult,F,average,city,0
+gen. X,F,average,suburb,1
+gen. X,F,low,city,0
+young adult,M,average,city,0
+young adult,M,average,city,1
+young adult,F,high,city,0
+adult,F,average,suburb,0
+gen. X,M,low,city,0
+gen. X,F,average,country,1
+gen. X,M,average,city,0
+young adult,F,average,city,1
+gen. X,M,average,city,0
+gen. X,F,average,city,1
+young adult,M,average,suburb,1
+young adult,F,average,city,0
+young adult,M,average,suburb,0
+gen. X,F,average,suburb,0
+gen. X,M,low,suburb,0
+adult,F,average,city,1
+young adult,F,low,suburb,0
+young adult,M,low,suburb,0
+young adult,M,low,country,1
+gen. X,F,low,city,0
+young adult,M,low,suburb,1
+gen. X,F,average,suburb,1
+gen. X,F,average,city,1
+adult,F,low,city,0
+gen. X,F,average,city,0
+gen. X,M,low,suburb,1
+gen. X,M,average,suburb,1
+gen. X,M,average,suburb,1
+gen. X,F,average,city,0
+gen. X,M,low,suburb,0
+adult,F,average,city,0
+gen. X,F,average,city,1
+gen. X,M,average,suburb,0
+young adult,M,low,suburb,1
+young adult,M,low,country,0
+young adult,M,average,suburb,0
+young adult,M,low,country,1
+gen. X,M,low,city,1
+young adult,F,low,suburb,0
+young adult,M,low,city,1
+gen. X,F,average,suburb,0
+senior,F,average,city,1
+young adult,M,average,suburb,0
+young adult,M,low,city,0
+young adult,F,low,city,0
+gen. X,M,average,city,0
+gen. X,F,average,suburb,0
+gen. X,F,average,country,0
+young adult,F,low,suburb,1
+gen. X,F,low,city,1
+young adult,M,low,city,1
+young adult,M,average,suburb,0
+young adult,F,average,suburb,0
+gen. X,F,low,city,0
+young adult,M,low,city,0
+gen. X,F,low,suburb,1
+adult,M,average,city,1
+senior,M,average,city,1
+gen. X,F,average,suburb,0
+adult,M,average,suburb,1
+young adult,M,low,city,1
+young adult,M,average,city,0
+young adult,F,average,city,1
+gen. X,F,low,city,1
+young adult,M,average,suburb,0
+young adult,M,average,city,0
+gen. X,M,low,suburb,1
+adult,F,average,suburb,0
+adult,F,average,suburb,0
+young adult,F,average,country,1
+gen. X,M,low,country,0
+young adult,F,average,country,0
+young adult,F,low,suburb,0
+senior,M,average,city,0
+gen. X,M,low,suburb,0
+gen. X,M,low,suburb,0
+gen. X,F,average,country,0
+gen. X,M,average,suburb,1
+young adult,F,low,suburb,1
+young adult,M,low,country,0
+young adult,M,average,suburb,1
+young adult,M,average,country,0
+senior,M,low,city,0
+young adult,F,low,suburb,0
+gen. X,M,average,country,1
+adult,F,average,city,0
+gen. X,F,low,country,0
+gen. X,M,low,city,0
+young adult,M,low,suburb,0
+young adult,M,low,suburb,0
+young adult,M,average,suburb,1
+adult,F,low,country,0
+young adult,M,low,suburb,1
+senior,M,average,suburb,0
+gen. X,M,low,city,0
+young adult,F,average,city,1
+gen. X,F,low,suburb,1
+adult,F,average,suburb,0
+gen. X,F,average,suburb,1
+young adult,M,average,suburb,0
+young adult,M,average,suburb,1
+gen. X,M,low,suburb,0
+young adult,M,average,suburb,1
+gen. X,F,average,suburb,0
+gen. X,F,average,suburb,0
+gen. X,M,average,country,0
+adult,M,average,suburb,1
+gen. X,F,low,suburb,0
+gen. X,F,high,city,0
+gen. X,F,average,city,0
+gen. X,M,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,average,city,0
+young adult,M,average,suburb,0
+young adult,M,average,city,0
+young adult,F,average,city,0
+gen. X,F,average,suburb,0
+gen. X,F,low,suburb,1
+senior,M,low,suburb,0
+young adult,F,average,city,1
+gen. X,M,low,country,1
+gen. X,F,average,city,0
+adult,F,average,country,0
+gen. X,M,high,country,0
+young adult,M,average,city,0
+adult,F,low,suburb,0
+senior,M,average,suburb,0
+gen. X,M,low,suburb,0
+senior,F,average,country,0
+gen. X,M,low,city,0
+young adult,M,low,city,0
+gen. X,M,low,suburb,1
+gen. X,F,average,suburb,1
+young adult,F,low,suburb,0
+gen. X,M,low,suburb,0
+young adult,F,low,city,0
+gen. X,F,low,city,0
+gen. X,M,low,suburb,1
+young adult,M,average,city,1
+young adult,M,average,city,1
+gen. X,F,low,country,0
+young adult,M,low,suburb,0
+young adult,M,low,suburb,0
+gen. X,F,average,suburb,1
+gen. X,M,low,city,0
+gen. X,F,average,country,1
+young adult,F,average,suburb,1
+gen. X,M,average,city,1
+gen. X,M,average,country,1
+young adult,F,low,city,0
+young adult,M,low,suburb,0
+adult,M,low,city,1
+adult,F,average,city,0
+young adult,M,average,suburb,1
+gen. X,M,low,suburb,0
+gen. X,M,low,city,1
+adult,F,average,suburb,0
+gen. X,M,average,city,1
+gen. X,F,average,city,1
+gen. X,F,low,suburb,1
+gen. X,M,average,city,0
+senior,M,average,city,0
+gen. X,F,average,suburb,0
+young adult,M,low,suburb,1
+adult,F,low,country,0
+young adult,F,average,country,0
+gen. X,M,average,suburb,1
+gen. X,M,average,city,1
+gen. X,M,average,city,0
+adult,F,low,city,0
+young adult,F,low,suburb,1
+young adult,M,average,city,1
+young adult,M,average,suburb,1
+young adult,M,low,suburb,1
+adult,F,low,city,0
+gen. X,F,low,suburb,0
+young adult,M,average,city,0
+gen. X,F,low,city,0
+gen. X,M,average,country,1
+gen. X,F,average,city,1
+young adult,M,low,city,0
+young adult,F,average,suburb,0
+young adult,F,average,city,0
+young adult,F,average,suburb,0
+young adult,F,low,city,0
+adult,M,average,suburb,1
+young adult,M,low,suburb,1
+adult,F,average,country,0
+young adult,M,average,city,0
+gen. X,M,low,suburb,0
+gen. X,F,average,suburb,0
+gen. X,M,low,city,1
+young adult,F,low,city,1
+adult,M,low,country,0
+gen. X,M,low,city,0
+young adult,M,low,city,1
+young adult,M,average,country,0
+young adult,M,high,suburb,0
+young adult,F,average,suburb,0
+young adult,F,low,country,0
+gen. X,M,average,country,1
+young adult,F,low,country,0
+young adult,F,average,suburb,1
+young adult,F,low,city,0
+gen. X,F,high,suburb,0
+young adult,F,low,suburb,0
+young adult,F,low,suburb,1
+young adult,F,low,city,0
+young adult,M,low,city,1
+young adult,M,low,suburb,1
+young adult,F,low,city,0
+gen. X,M,average,city,1
+young adult,F,average,suburb,0
+young adult,M,average,country,0
+young adult,F,average,suburb,1
+gen. X,F,average,city,0
+young adult,M,average,city,1
+gen. X,F,low,suburb,0
+gen. X,M,average,city,0
+young adult,M,average,city,0
+gen. X,M,average,city,0
+adult,M,average,country,0
+gen. X,F,low,country,0
+gen. X,F,average,suburb,1
+young adult,M,low,suburb,1
+young adult,F,average,city,0
+gen. X,M,low,country,1
+young adult,M,average,suburb,1
+gen. X,M,low,suburb,0
+gen. X,F,low,city,1
+young adult,F,low,suburb,0
+gen. X,M,average,country,1
+young adult,M,average,suburb,0
+gen. X,F,average,suburb,0
+young adult,M,average,suburb,1
+gen. X,F,average,city,0
+young adult,F,low,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,high,suburb,1
+gen. X,F,average,suburb,0
+young adult,M,low,country,0
+gen. X,M,low,suburb,1
+young adult,F,average,city,0
+senior,F,low,city,0
+young adult,F,low,city,0
+young adult,F,low,city,0
+senior,F,low,city,0
+young adult,F,low,city,1
+young adult,F,low,suburb,0
+gen. X,M,low,suburb,1
+senior,M,average,suburb,0
+gen. X,F,average,suburb,0
+young adult,F,average,suburb,0
+young adult,F,average,suburb,0
+young adult,F,average,city,0
+young adult,M,average,city,0
+young adult,M,average,suburb,0
+adult,M,average,city,0
+young adult,M,average,suburb,1
+adult,M,low,city,0
+gen. X,F,low,suburb,0
+young adult,F,average,country,0
+senior,F,high,suburb,0
+gen. X,M,low,suburb,0
+gen. X,M,average,city,1
+gen. X,M,low,country,0
+gen. X,F,low,city,0
+gen. X,M,average,city,1
+young adult,M,average,suburb,0
+gen. X,M,low,country,1
+young adult,M,low,city,1
+young adult,F,low,suburb,0
+young adult,F,high,city,0
+senior,F,average,suburb,0
+adult,F,average,city,0
+gen. X,F,average,country,0
+adult,F,average,city,0
+gen. X,M,low,suburb,0
+gen. X,F,low,country,0
+young adult,M,low,suburb,0
+young adult,F,low,suburb,0
+gen. X,M,average,suburb,0
+gen. X,F,average,city,0
+adult,F,low,suburb,0
+young adult,F,low,suburb,0
+gen. X,M,average,city,0
+adult,F,average,suburb,0
+gen. X,F,low,suburb,0
+gen. X,F,average,city,1
+adult,F,low,city,1
+young adult,F,average,suburb,1
+young adult,F,low,country,0
+gen. X,M,average,city,1
+gen. X,M,average,city,0
+young adult,F,average,city,0
+senior,F,low,country,0
+gen. X,M,low,suburb,0
+young adult,M,low,suburb,1
+senior,F,average,city,0
+gen. X,M,low,city,0
+young adult,M,low,city,1
+adult,M,low,suburb,1
+young adult,F,average,country,0
+gen. X,F,low,city,1
+gen. X,M,low,suburb,1
+young adult,M,low,suburb,0
+gen. X,F,low,city,0
+gen. X,M,high,suburb,0
+gen. X,M,low,suburb,1
+gen. X,F,average,suburb,0
+gen. X,F,average,city,1
+gen. X,F,average,suburb,0
+gen. X,F,average,suburb,0
+young adult,F,average,city,0
+gen. X,M,average,suburb,1
+young adult,F,average,country,0
+gen. X,M,average,country,1
+gen. X,F,low,country,0
+young adult,M,low,city,0
+senior,F,low,city,0
+gen. X,F,average,country,0
+gen. X,F,average,city,0
+gen. X,M,low,suburb,1
+gen. X,F,low,city,0
+gen. X,M,low,city,1
+young adult,F,low,suburb,0
+young adult,M,low,city,0
+gen. X,M,average,country,0
+gen. X,M,average,city,1
+gen. X,F,average,country,0
+gen. X,M,low,country,1
+young adult,F,low,suburb,0
+young adult,F,low,city,1
+gen. X,F,low,city,0
+gen. X,F,average,country,0
+young adult,M,average,suburb,1
+gen. X,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,average,city,0
+senior,M,low,suburb,1
+young adult,M,low,suburb,0
+adult,F,low,suburb,0
+adult,M,low,city,0
+young adult,M,average,city,0
+adult,M,average,country,1
+young adult,M,low,suburb,1
+young adult,F,low,country,0
+gen. X,M,high,suburb,0
+senior,M,average,city,1
+adult,M,average,suburb,0
+young adult,F,average,suburb,0
+young adult,M,average,suburb,1
+young adult,M,average,country,0
+young adult,F,average,suburb,0
+young adult,F,low,city,0
+gen. X,F,average,city,1
+young adult,M,low,city,1
+young adult,M,average,suburb,1
+gen. X,M,average,country,0
+young adult,M,low,country,0
+gen. X,F,average,suburb,1
+young adult,M,average,city,1
+young adult,F,low,city,0
+young adult,F,average,suburb,0
+gen. X,F,low,suburb,1
+adult,F,average,suburb,0
+young adult,F,average,city,0
+young adult,F,average,city,1
+adult,F,average,city,1
+gen. X,F,average,city,1
+young adult,M,average,city,0
+gen. X,M,average,suburb,0
+young adult,M,average,city,1
+young adult,F,low,suburb,0
+young adult,M,average,city,0
+gen. X,F,low,suburb,0
+young adult,M,average,country,0
+gen. X,F,low,suburb,0
+gen. X,F,average,city,0
+young adult,F,average,country,0
+young adult,F,average,country,0
+adult,F,average,city,0
+gen. X,F,low,city,0
+young adult,M,average,suburb,1
+gen. X,F,average,city,0
+young adult,F,average,suburb,0
+young adult,F,low,city,0
+young adult,M,average,suburb,0
+gen. X,F,low,city,0
+young adult,F,high,city,1
+young adult,F,low,city,1
+young adult,F,average,country,0
+senior,F,low,city,0
+young adult,M,average,city,0
+gen. X,M,low,city,1
+adult,F,low,city,1
+young adult,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,low,city,0
+young adult,M,low,city,0
+gen. X,F,low,suburb,1
+young adult,M,low,suburb,0
+adult,M,low,suburb,1
+adult,F,high,suburb,0
+gen. X,M,average,suburb,0
+gen. X,M,average,city,1
+gen. X,M,low,city,0
+gen. X,M,average,city,1
+young adult,F,low,country,0
+young adult,M,average,country,1
+young adult,M,average,suburb,1
+gen. X,F,average,suburb,0
+gen. X,M,average,country,0
+young adult,M,high,city,1
+gen. X,M,average,suburb,1
+young adult,F,average,city,0
+adult,M,low,city,0
+young adult,M,low,suburb,0
+gen. X,M,average,city,1
+gen. X,F,average,city,0
+gen. X,F,average,suburb,0
+young adult,F,average,suburb,0
+gen. X,F,average,suburb,0
+senior,M,low,country,0
+young adult,F,average,city,1
+gen. X,M,average,suburb,1
+young adult,M,low,suburb,0
+gen. X,M,low,city,0
+young adult,F,low,suburb,0
+adult,F,average,country,1
+young adult,F,average,suburb,0
+young adult,F,average,suburb,0
+gen. X,F,low,city,0
+young adult,F,average,city,0
+gen. X,F,low,city,1
+young adult,M,low,city,1
+gen. X,F,average,city,0
+gen. X,M,average,city,1
+gen. X,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,M,low,suburb,0
+gen. X,M,low,suburb,0
+young adult,M,average,suburb,0
+young adult,F,average,suburb,0
+adult,M,low,city,0
+gen. X,F,average,city,0
+young adult,M,average,suburb,0
+young adult,M,average,city,0
+young adult,F,low,city,0
+adult,F,average,city,1
+gen. X,M,average,city,1
+gen. X,M,low,city,1
+gen. X,M,average,country,0
+gen. X,M,average,country,0
+gen. X,F,average,city,0
+young adult,F,average,suburb,0
+gen. X,M,average,city,1
+adult,M,low,suburb,1
+senior,M,average,city,1
+adult,F,average,city,0
+young adult,M,average,city,0
+young adult,F,average,city,0
+young adult,F,low,suburb,0
+young adult,M,low,city,1
+gen. X,M,low,city,0
+young adult,M,average,country,0
+young adult,M,low,country,1
+young adult,M,average,suburb,0
+gen. X,M,average,country,1
+young adult,M,average,city,1
+young adult,F,average,suburb,0
+adult,F,low,suburb,1
+young adult,F,average,suburb,0
+gen. X,F,average,suburb,0
+gen. X,F,average,suburb,1
+gen. X,M,low,country,0
+young adult,M,average,suburb,1
+adult,F,average,city,0
+young adult,F,low,country,0
+gen. X,M,low,country,0
+young adult,M,low,city,0
+young adult,M,average,suburb,1
+young adult,F,low,suburb,1
+gen. X,F,low,suburb,0
+gen. X,M,average,city,0
+young adult,M,average,suburb,1
+gen. X,M,average,suburb,1
+gen. X,M,high,suburb,0
+adult,F,average,country,1
+adult,F,low,city,0
+young adult,M,average,suburb,0
+senior,F,average,suburb,0
+gen. X,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,average,suburb,0
+young adult,F,average,city,1
+young adult,F,low,suburb,1
+gen. X,M,average,country,0
+gen. X,M,average,suburb,1
+young adult,F,low,suburb,0
+gen. X,F,low,city,1
+gen. X,M,high,city,0
+young adult,M,average,suburb,0
+young adult,M,average,city,0
+adult,F,average,suburb,0
+gen. X,M,average,city,1
+young adult,F,high,city,0
+gen. X,F,average,suburb,0
+gen. X,M,high,suburb,0
+gen. X,F,average,suburb,1
+gen. X,M,average,suburb,1
+young adult,F,low,suburb,0
+gen. X,M,low,suburb,0
+young adult,M,average,suburb,0
+gen. X,M,low,city,1
+gen. X,F,low,city,0
+young adult,M,low,city,0
+gen. X,F,average,country,0
+gen. X,M,average,city,0
+young adult,M,low,city,0
+young adult,M,average,city,0
+young adult,F,average,city,0
+senior,M,average,city,0
+young adult,M,low,country,1
+young adult,F,low,suburb,0
+gen. X,M,low,city,0
+young adult,M,average,city,0
+senior,M,low,suburb,0
+gen. X,M,average,country,1
+gen. X,M,low,city,0
+young adult,M,low,suburb,0
+young adult,M,low,city,1
+gen. X,M,low,city,0
+young adult,F,low,city,0
+senior,M,low,suburb,1
+senior,F,average,suburb,0
+gen. X,M,average,suburb,0
+gen. X,M,average,suburb,1
+gen. X,M,average,city,1
+gen. X,M,average,city,1
+gen. X,F,average,suburb,0
+gen. X,M,average,suburb,0
+gen. X,M,average,suburb,1
+young adult,F,average,city,0
+gen. X,F,low,suburb,0
+young adult,F,average,suburb,0
+young adult,F,low,suburb,1
+gen. X,F,average,suburb,1
+young adult,M,average,city,0
+young adult,F,average,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,high,suburb,0
+gen. X,M,low,city,0
+young adult,M,low,suburb,0
+gen. X,M,average,suburb,0
+gen. X,F,low,suburb,0
+gen. X,F,low,suburb,0
+young adult,M,low,suburb,1
+gen. X,F,high,suburb,1
+adult,F,low,suburb,0
+gen. X,F,average,suburb,0
+gen. X,M,average,country,0
+gen. X,M,low,city,1
+adult,F,low,suburb,1
+young adult,F,average,city,1
+gen. X,F,average,suburb,1
+gen. X,F,low,country,1
+young adult,F,average,city,0
+gen. X,M,average,suburb,1
+young adult,M,low,suburb,1
+young adult,M,low,city,0
+gen. X,M,average,country,1
+young adult,M,low,suburb,1
+young adult,M,average,suburb,0
+adult,M,high,suburb,1
+gen. X,F,average,city,0
+gen. X,M,average,city,1
+gen. X,M,low,city,1
+adult,M,average,suburb,1
+adult,F,low,suburb,0
+young adult,F,low,suburb,0
+gen. X,F,low,suburb,0
+gen. X,F,average,suburb,0
+adult,F,average,suburb,0
+young adult,M,average,country,0
+gen. X,F,average,suburb,1
+young adult,F,average,city,0
+gen. X,M,low,country,1
+gen. X,M,average,city,1
+young adult,M,low,country,0
+young adult,F,low,suburb,1
+young adult,M,average,suburb,1
+young adult,F,average,suburb,1
+gen. X,F,average,city,0
+gen. X,M,average,city,1
+young adult,M,average,city,1
+young adult,F,high,suburb,0
+gen. X,F,low,city,0
+gen. X,M,average,suburb,0
+young adult,F,low,city,0
+gen. X,F,average,suburb,0
+young adult,F,average,country,0
+gen. X,M,low,suburb,1
+gen. X,F,low,suburb,1
+young adult,F,average,city,0
+gen. X,M,low,suburb,1
+young adult,F,low,city,1
+young adult,M,low,city,0
+gen. X,M,average,suburb,0
+young adult,F,average,city,1
+young adult,F,average,city,1
+young adult,F,low,suburb,1
+adult,F,low,city,0
+gen. X,M,average,city,0
+gen. X,M,low,city,1
+senior,M,high,suburb,1
+young adult,M,average,suburb,0
+young adult,F,average,country,0
+young adult,M,low,suburb,0
+gen. X,F,low,city,0
+young adult,F,average,city,0
+gen. X,F,low,suburb,1
+gen. X,M,low,city,0
+young adult,F,low,country,0
+young adult,M,average,city,1
+gen. X,M,average,city,1
+young adult,M,low,city,0
+gen. X,M,average,suburb,1
+gen. X,F,average,suburb,0
+young adult,M,low,city,0
+gen. X,M,average,city,0
+young adult,F,average,city,0
+gen. X,F,average,suburb,0
+gen. X,M,average,suburb,0
+adult,M,average,city,1
+young adult,F,low,city,0
+young adult,F,low,suburb,1
+gen. X,F,average,suburb,0
+gen. X,M,average,suburb,1
+gen. X,F,average,city,0
+gen. X,M,low,suburb,1
+gen. X,M,low,suburb,0
+gen. X,M,average,suburb,1
+young adult,F,low,city,0
+gen. X,M,low,suburb,1
+gen. X,F,low,city,1
+gen. X,M,average,country,0
+young adult,M,average,city,1
+gen. X,M,average,suburb,0
+young adult,M,low,suburb,1
+gen. X,M,low,suburb,0
+young adult,F,high,city,0
+gen. X,F,average,suburb,0
+young adult,F,average,city,0
+young adult,M,average,city,0
+adult,F,low,city,0
+adult,F,low,country,0
+adult,F,low,suburb,0
+gen. X,M,average,city,1
+senior,M,average,country,0
+gen. X,M,low,suburb,0
+young adult,M,low,country,1
+young adult,M,average,suburb,1
+senior,M,average,suburb,0
+gen. X,M,average,city,0
+young adult,M,average,suburb,1
+young adult,F,low,city,0
+gen. X,M,low,suburb,1
+young adult,M,average,suburb,0
+young adult,F,low,suburb,0
+young adult,M,average,suburb,0
+gen. X,M,average,country,1
+gen. X,F,low,suburb,0
+adult,M,low,city,0
+young adult,M,average,city,1
